@@ -35,7 +35,7 @@ sudo systemctl daemon-reload
 To start the service at system boot, enter:
 
 ```
-systemctl enable freqtrade_docker.service
+sudo systemctl enable freqtrade_docker.service
 ```
 
 Start the service manually:
